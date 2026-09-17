@@ -1,0 +1,188 @@
+[
+  {
+    "id": "2f6f6350-8fe5-4ec4-95ed-229b3309d889",
+    "title": "The Midnight Library",
+    "isbn": "9780525559474",
+    "publishedYear": 2020,
+    "stock": 14,
+    "price": 18.99,
+    "author": {
+      "name": "Matt Haig"
+    },
+    "categories": [
+      {
+        "name": "Fiction"
+      },
+      {
+        "name": "Fantasy"
+      }
+    ]
+  },
+  {
+    "id": "2e4712ea-82fa-4792-b408-93874957a481",
+    "title": "The Fellowship of the Ring",
+    "isbn": "9780547928210",
+    "publishedYear": 2012,
+    "stock": 20,
+    "price": 18.99,
+    "author": {
+      "name": "J.R.R. Tolkien"
+    },
+    "categories": [
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "id": "28779b98-521c-4b91-80a2-9009fcdf8ae8",
+    "title": "The Two Towers",
+    "isbn": "9780547928203",
+    "publishedYear": 2012,
+    "stock": 17,
+    "price": 18.99,
+    "author": {
+      "name": "J.R.R. Tolkien"
+    },
+    "categories": [
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "id": "d765a0e6-9700-4b27-b529-b2279c684023",
+    "title": "The Return of the King",
+    "isbn": "9780547928197",
+    "publishedYear": 2012,
+    "stock": 15,
+    "price": 18.99,
+    "author": {
+      "name": "J.R.R. Tolkien"
+    },
+    "categories": [
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "id": "d59d67fd-4aa6-4728-82dc-641f89b156b5",
+    "title": "Brave New World",
+    "isbn": "9780060850524",
+    "publishedYear": 2006,
+    "stock": 21,
+    "price": 14.99,
+    "author": {
+      "name": "Aldous Huxley"
+    },
+    "categories": [
+      {
+        "name": "Dystopian"
+      },
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "f1ca7058-8f3e-4efa-accb-4211ee1f539e",
+    "title": "Fahrenheit 451",
+    "isbn": "9781451673319",
+    "publishedYear": 2012,
+    "stock": 19,
+    "price": 13.99,
+    "author": {
+      "name": "Ray Bradbury"
+    },
+    "categories": [
+      {
+        "name": "Dystopian"
+      },
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Classic"
+      }
+    ]
+  },
+  {
+    "id": "14d2af0c-ca31-4fd0-a9cb-db5f3eec8c30",
+    "title": "Animal Farm",
+    "isbn": "9780451526342",
+    "publishedYear": 1996,
+    "stock": 28,
+    "price": 9.99,
+    "author": {
+      "name": "George Orwell"
+    },
+    "categories": [
+      {
+        "name": "Classic"
+      },
+      {
+        "name": "Satire"
+      },
+      {
+        "name": "Fiction"
+      }
+    ]
+  },
+  {
+    "id": "f7266a21-f57d-4d82-991f-1a013e3765b5",
+    "title": "The Alchemist",
+    "isbn": "9780061122415",
+    "publishedYear": 2006,
+    "stock": 24,
+    "price": 15.99,
+    "author": {
+      "name": "Paulo Coelho"
+    },
+    "categories": [
+      {
+        "name": "Fiction"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Philosophy"
+      }
+    ]
+  },
+  {
+    "id": "4f0185ac-2e9c-4c1e-8fba-4653b75b887d",
+    "title": "The Little Prince",
+    "isbn": "9780156012195",
+    "publishedYear": 2000,
+    "stock": 35,
+    "price": 10.99,
+    "author": {
+      "name": "Antoine de Saint-Exup\u00E9ry"
+    },
+    "categories": [
+      {
+        "name": "Classic"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Children"
+      }
+    ]
+  }
+]
